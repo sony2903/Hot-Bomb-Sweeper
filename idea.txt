@@ -1,0 +1,9 @@
+Ubah Turn di room -> turn === player[index] -> boleh main
+Kena bom -> Seluruh client hit bomb
+Last survival -> Change winner status -> Bakc to lobby
+Delete room
+
+team leader (interim) -> Yohan
+layout html -> Sony
+socket master x 2 -> Chairul, Raka
+game master -> Ichsan
